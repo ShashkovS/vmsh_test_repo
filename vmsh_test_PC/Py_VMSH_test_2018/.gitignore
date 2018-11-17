@@ -1,0 +1,11 @@
+CREDENTIALS.py
+results.*
+zscans.pickle
+Scan*.pdf
+.idea
+__pycache__
+cpdf.exe
+cpdfmanual.pdf
+barcodes/barcode*.png
+venv
+*.pickle
